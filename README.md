@@ -121,3 +121,24 @@ The PCB has been designed in KiCad and both the schematics and the board files a
 
 # License
 The badge design is licensed under Creative Commons, Attribution Share-Alike (CC-BY-SA). Please use the design and built your own. We would love to see what you make.
+
+# The BornHack IoS Badge (Missing wifi and battery) by @-boy
+So the idea of this badge hack is to add the ESP8266 Wifi module to the badge to make it part of the Internet of Shit, by also adding a screen and some LEDs lets the badge be able to display some info like name or talk info and blink to warn when a new talk is taking place
+
+## Components
+
+1x ESP8266 12E
+1x Arduino Nano
+2x Green LEDs
+8x Red LEDs
+1x OLED display compatible with Adafruit SSD1306 driver
+
+## Leasons learned and what is working
+A couple of things I have learned
+
+* 5v is not 3.3v, this is realy important
+* Plan in steps and start smaller, I would have more things working if I had interated in 
+
+Right now the badge can show stuff on the OLED display, but wifi is not working keep having issues with firmware and maybe voltage, also it is missing a battery
+
+(https://github.com/at-boy/badge2016/blob/master/images/at-boy/IMG_20160902_184946.jpg "The BornHack IoS Badge")
