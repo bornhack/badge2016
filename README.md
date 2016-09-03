@@ -127,11 +127,11 @@ So the idea of this badge hack is to add the ESP8266 Wifi module to the badge to
 
 ## Components
 
-1x ESP8266 12E
-1x Arduino Nano
-2x Green LEDs
-8x Red LEDs
-1x OLED display compatible with Adafruit SSD1306 driver
+* 1x ESP8266 12E
+* 1x Arduino Nano
+* 2x Green LEDs
+* 8x Red LEDs
+* 1x OLED display compatible with Adafruit SSD1306 driver
 
 ## Leasons learned and what is working
 A couple of things I have learned
