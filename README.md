@@ -141,4 +141,4 @@ A couple of things I have learned
 
 Right now the badge can show stuff on the OLED display, but wifi is not working keep having issues with firmware and maybe voltage, also it is missing a battery
 
-(https://github.com/at-boy/badge2016/blob/master/images/at-boy/IMG_20160902_184946.jpg "The BornHack IoS Badge")
+![The BornHack IoS Badge](https://github.com/at-boy/badge2016/blob/master/images/at-boy/IMG_20160902_184946.jpg "The BornHack IoS Badge")
