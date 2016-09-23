@@ -1,4 +1,4 @@
-# BornHack 2016 badge contest entries
+# BornHack 2016 badge contest winner
 
 ## The BornHack IoS Badge (Missing wifi and battery) by @-boy
 So the idea of this badge hack is to add the ESP8266 Wifi module to the badge to make it part of the Internet of Shit, by also adding a screen and some LEDs the badge will be able to display some info like name or talk info and blink to warn when a new talk is about to take place
